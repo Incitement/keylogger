@@ -1,4 +1,4 @@
-# keylogger
+# Basic Python Keylogger
 
 Hello, welcome! This repo is a simple keylogger script written in Python that I have used to learn more about Python and general security principles. For right now this is a heavy work in progress, and is only in a concept state at this point in time. The keylogger works for both Windows and Linux platforms.
 
