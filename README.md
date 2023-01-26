@@ -4,6 +4,11 @@ Hello, welcome! This repo is a simple keylogger script written in Python that I 
 
 **Disclaimer: The software found in this repository is for research and learning purposes only, and should only be used on systems that you have proper authorization to perform malicious actions on. Do not use this for any malicious purposes or intents.**
 
+## Requirements
+```
+pynput 1.7.6
+```
+
 ## Usage
 After moving to the directory that you download the repo into, just call the logger with:
 ```
